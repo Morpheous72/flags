@@ -1,5 +1,4 @@
 import React from 'react';
-import Countries from '../components/Countries';
 import Logo from '../components/Logo';
 import Navigation from '../components/Navigation';
 
@@ -7,8 +6,7 @@ const About = () => {
   return (
     <div>
       <Logo />
-      <Navigation />
-      <Countries />
+      <Navigation />      
       <h1>A propos</h1>
       <br />
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, quam explicabo quia voluptate perferendis consectetur laborum ea velit iusto fugiat perspiciatis earum optio? Minus, corrupti enim assumenda maiores quia sit!
